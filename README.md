@@ -1,7 +1,7 @@
 # Cafe Sales Analysis: 2024 vs 2025
 
 ## Start here
-**`cafe_yoy_report.md`** — the full write-up with charts and takeaways.
+**`cafe_yoy_report.md`** for the full report.
 
 ## Files
 
